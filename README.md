@@ -11,7 +11,7 @@ Hey Hey, I'm Devon
 [![Linkedin Badge](https://img.shields.io/badge/devonlewis-linkedin?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
 [![Gmail Badge](https://img.shields.io/badge/devonlewis808@gmail.com-gmail?style=flat-square&logo=Gmail&logoColor=white&color=red&link=mailto:devonlewis808@gmail.com)](mailto:devonlewis808@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/devonmlewis_-twitter?style=flat-square&logo=Twitter&logoColor=white&color=%231d9ceb&link=https://www.twitter.com/devonmlewis_)](https://www.twitter.com/devonmlewis_)
-[![Instagram Badge](https://img.shields.io/badge/devonmlewis-instagram?style=flat-square&logo=Instagram&logoColor=whitee&color=%23ed8127&link=https://www.instagram.com/users/devonmlewis/)](https://www.instagram.com/devonmlewis)
+[![Instagram Badge](https://img.shields.io/badge/devonmlewis-instagram?style=flat-square&logo=Instagram&logoColor=white&color=%23ed8127&link=https://www.instagram.com/users/devonmlewis/)](https://www.instagram.com/devonmlewis)
 
 
 ## Programming Padawan
