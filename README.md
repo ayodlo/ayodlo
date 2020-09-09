@@ -1,7 +1,7 @@
 <h1 align="center">
-<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="50" />
+<img transform="scaleX(-1)" src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100" />
 Hey Hey, I'm Devon
-<img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="50" style="transform:scaleX(-1);"/>
+<img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100"/>
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
