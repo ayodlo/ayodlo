@@ -1,14 +1,17 @@
 ### Hey hey, I'm Devon - aka Dev 👋
 
-[![Website](https://devonlewis.carbonmade.com)](https://devonlewis.carbonmade.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/devonmlewis_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevonmlewis_&screen_name=devonmlewis_)
-
 ## Programming Padawan
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 🎵 Fun fact: I love to make beats and am forunate enough to make a passive income from music
+
+### 📕 My Web Developer Porfolio via CarbonMade
+
+<!-- BLOG-POST-LIST:START -->
+- [Devon Lewis Web Developer Portfolio](https://devonlewis.carbonmade.com)
+<!-- BLOG-POST-LIST:END -->
 
 ### Connect with me:
 
@@ -38,11 +41,6 @@
 
 ---
 
-### 📕 My Web Developer Porfolio via CarbonMade
-
-<!-- BLOG-POST-LIST:START -->
-- [Devon Lewis Web Developer Portfolio](https://devonlewis.carbonmade.com)
-<!-- BLOG-POST-LIST:END -->
 
 ### 📺 Checkout My Music On YouTube
 
