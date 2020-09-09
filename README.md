@@ -8,10 +8,10 @@ Hey Hey, I'm Devon
 
 ## 📞 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/devonlewis-linkedin?style=for-the-badge&logo=Linkedin&logoColor=white&color=%231d9ceb&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
-[![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devonlewis808@gmail.com)](mailto:devonlewis808@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-crypt096-critical?style=flat-square&logo=Codewars&logoColor=black&link=https://www.codewars.com/users/crypt096/)](https://www.twitter.com/devonmlewis_)
-[![Instagram Badge](https://img.shields.io/badge/-crypt096-critical?style=flat-square&logo=Codewars&logoColor=black&link=https://www.codewars.com/users/crypt096/)](https://www.instagram.com/devonmlewis)
+[![Linkedin Badge](https://img.shields.io/badge/devonlewis-linkedin?style=for-the-badge&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
+[![Gmail Badge](https://img.shields.io/badge/-devonlewis808@gmail.com?style=for-the-badge&logo=Gmail&logoColor=white&color=red&link=mailto:devonlewis808@gmail.com)](mailto:devonlewis808@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/devonmlewis_?style=for-the-badge&logo=Twitter&logoColor=white&color=%231d9ceb&link=https://www.twitter.com/devonmlewis_)](https://www.twitter.com/devonmlewis_)
+[![Instagram Badge](https://img.shields.io/badge/devonmlewis?style=for-the-badge&logo=Instagram&logoColor=whitee&color=%23ed8127&link=https://www.instagram.com/users/devonmlewis/)](https://www.instagram.com/devonmlewis)
 
 
 ## Programming Padawan
