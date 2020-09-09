@@ -1,7 +1,7 @@
 # Hey hey, I'm Devon - aka Dev 👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ayodlo&show_icons=true&theme=dark)
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50%" height="50%"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" height="171.5"/>
 
 
 
