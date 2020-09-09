@@ -1,7 +1,7 @@
 <h1 align="center">
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="32" />
 Hey Hey, I'm Devon
-<img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />
+<img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="32" style="transform: scaleX(-1);"/>
 </h1>
 
 <img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230">
@@ -94,3 +94,5 @@ Hey Hey, I'm Devon
 ## 📺 Checkout My Music On YouTube
 
 [Beats by AyoDlo](https://www.youtube.com/ayodlo)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayodlo" alt="crypt096" /> </p>
