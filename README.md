@@ -8,7 +8,7 @@ Hey Hey, I'm Devon
 
 ## 📞 Contact me
 
-[![Linkedin Badge](https://img.shields.io/badge/devonlewis-linkedin?style=for-the-badge&logo=Linkedin&logoColor=white&color=#1d9ceb&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
+[![Linkedin Badge](https://img.shields.io/badge/devonlewis-linkedin?style=for-the-badge&logo=Linkedin&logoColor=white&color=RGB(29, 156, 235)&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
 [![Gmail Badge](https://img.shields.io/badge/-acvjetan@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devonlewis808@gmail.com)](mailto:devonlewis808@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-crypt096-critical?style=flat-square&logo=Codewars&logoColor=black&link=https://www.codewars.com/users/crypt096/)](https://www.twitter.com/devonmlewis_)
 [![Instagram Badge](https://img.shields.io/badge/-crypt096-critical?style=flat-square&logo=Codewars&logoColor=black&link=https://www.codewars.com/users/crypt096/)](https://www.instagram.com/devonmlewis)
