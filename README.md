@@ -12,7 +12,6 @@
 <!-- BLOG-POST-LIST:START -->
 - [Devon Lewis Web Developer Portfolio](https://devonlewis.carbonmade.com)
 <!-- BLOG-POST-LIST:END -->
-</br>
 
 ### Connect with me:
 
