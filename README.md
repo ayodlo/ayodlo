@@ -24,7 +24,7 @@ Hey Hey, I'm Devon
 
 ##  My Web Developer Porfolio via CarbonMade
 
-- [Devon Lewis Web Developer Portfolio](https://devonlewis.carbonmade.com)
+[![Website Badge](https://img.shields.io/badge/devonlewis-linkedin?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
 
 
 ## 🔧 Technologies & Tools
@@ -74,11 +74,11 @@ Hey Hey, I'm Devon
 
 ###### Operating systems
 
-![Windows](https://img.shields.io/badge/-Linux-000000?style=flat&logo=Windows&logoColor=FCC624)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=Windows&logoColor=FCC624)
 
 ###### Deployment services
 
-![Heroku](https://img.shields.io/badge/-AWS-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
+![Heroku](https://img.shields.io/badge/-Heroku-000000?style=flat&logo=Heroku%20AWS&logoColor=FFFFFF)
 
 ## &#x1f4c8; GitHub Stats
 
@@ -93,4 +93,4 @@ Hey Hey, I'm Devon
 
 ## 📺 Checkout My Music On YouTube
 
-- [Beats by AyoDlo](https://www.youtube.com/ayodlo)
+[Beats by AyoDlo](https://www.youtube.com/ayodlo)
