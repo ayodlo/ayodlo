@@ -1,5 +1,4 @@
 ## Hey hey, I'm Devon - aka Dev 👋
----
 
 ### Programming Padawan
 
