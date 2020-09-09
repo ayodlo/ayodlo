@@ -1,6 +1,6 @@
 <h1 align="center">
-<img transform="scaleX(-1)" src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100" />
-Hey Hey, I'm Devon
+<img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100" />
+Hey there, I'm Devon
 <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100"/>
 </h1>
 
@@ -14,7 +14,7 @@ Hey Hey, I'm Devon
 [![Instagram Badge](https://img.shields.io/badge/devonmlewis-instagram?style=flat-square&logo=Instagram&logoColor=white&color=%23ed8127&link=https://www.instagram.com/users/devonmlewis/)](https://www.instagram.com/devonmlewis)
 
 
-## Programming Padawan
+## 📗 Programming Padawan
 - 💻 I'm currently working on <a href='https://github.com/ayodlo/gigstarter'>Gigstarter</a> for Conaxion .
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -22,7 +22,7 @@ Hey Hey, I'm Devon
 - 🎵 Fun fact: I love to make beats and am forunate enough to make a passive income from music
 
 
-##  My Web Developer Porfolio via CarbonMade
+##  📂 My Web Developer Porfolio via CarbonMade
 
 [Beats by AyoDlo](https://www.devonlewis.carbonmade.com)
 
