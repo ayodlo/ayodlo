@@ -24,7 +24,7 @@ Hey Hey, I'm Devon
 
 ##  My Web Developer Porfolio via CarbonMade
 
-[![Website Badge](https://img.shields.io/badge/devonlewis-linkedin?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/dl1991/)](https://www.linkedin.com/in/dl1991/)
+[Beats by AyoDlo](https://www.devonlewis.carbonmade.com)
 
 
 ## 🔧 Technologies & Tools
