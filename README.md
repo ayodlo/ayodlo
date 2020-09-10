@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100" />
-Hey there, I'm Devon
+Hey there, I'm Dev
 <img src="https://media.giphy.com/media/dZCGUOirHnh49N03TF/giphy.gif" height="100"/>
 </h1>
 
