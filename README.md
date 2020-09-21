@@ -24,7 +24,7 @@ Hey there, I'm Dev
 
 ##  📂 My Web Developer Porfolio via CarbonMade
 
-[Beats by AyoDlo](https://www.devonlewis.carbonmade.com)
+[Portfolio - Devon Lewis](https://www.devonlewis.carbonmade.com)
 
 
 ## 🔧 Technologies & Tools
